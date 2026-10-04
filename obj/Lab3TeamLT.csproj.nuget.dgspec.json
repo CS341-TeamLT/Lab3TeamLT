@@ -1,31 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dhwis\\Downloads\\CS341\\Lab3TeamLT\\Lab3TeamLT.csproj": {}
+    "/Users/alexmartinez/Lab3TeamLT/Lab3TeamLT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dhwis\\Downloads\\CS341\\Lab3TeamLT\\Lab3TeamLT.csproj": {
+    "/Users/alexmartinez/Lab3TeamLT/Lab3TeamLT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhwis\\Downloads\\CS341\\Lab3TeamLT\\Lab3TeamLT.csproj",
+        "projectUniqueName": "/Users/alexmartinez/Lab3TeamLT/Lab3TeamLT.csproj",
         "projectName": "Lab3TeamLT",
-        "projectPath": "C:\\Users\\dhwis\\Downloads\\CS341\\Lab3TeamLT\\Lab3TeamLT.csproj",
-        "packagesPath": "C:\\Users\\dhwis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhwis\\Downloads\\CS341\\Lab3TeamLT\\obj\\",
+        "projectPath": "/Users/alexmartinez/Lab3TeamLT/Lab3TeamLT.csproj",
+        "packagesPath": "/Users/alexmartinez/.nuget/packages/",
+        "outputPath": "/Users/alexmartinez/Lab3TeamLT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dhwis\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/alexmartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -40,11 +39,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.400"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -62,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
